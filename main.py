@@ -1,2 +1,3 @@
 print("Hello world")
-print("I am Ja")
+print("I am Supaporn")
+print("My nickname is Ja")
